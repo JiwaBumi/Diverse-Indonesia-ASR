@@ -1,5 +1,5 @@
 # Diverse-Indonesia-ASR
-Fine-tuned Automatic Speech Recognition for Bahasa Indonesia that is good for informals, slangs, accents, and code switching and mixing.
+Fine-tuned Automatic Speech Recognition for Bahasa Indonesia that is good for informals, slangs, accents, and code switching and mixing. This is my Computer Science undergraduate thesis project.
 
 # Latar Belakang  
 Teknologi Pengenalan Ucapan Otomatis (ASR) adalah teknologi yang mengubah ucapan dari audio menjadi teks yang dapat dibaca. Bentuk awal ASR adalah mengenali angka dari seorang pembicara tunggal, yang kemudian berkembang untuk memahami beberapa vokal dan konsonan, dan akhirnya kata-kata[1] (Juang et al. 2005). Secara teknis, penggunaan awalnya adalah untuk subtitle, dan hingga saat ini hal itu masih relevan untuk banyak aplikasi, seperti untuk orang dengan gangguan pendengaran, pembelajar bahasa, atau bagi mereka yang ingin memahami melalui kebisingan atau saat suara dimatikan.  
